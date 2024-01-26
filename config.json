@@ -1,21 +1,21 @@
 {
   "tokens": [
     {
-      "token": "MTE0NDk1NTYxMDIzNjk5NzY4Mw.GxcfsQ.xrNF-u6Fh91rUg3oLR8XmTmcdKofxTle2-lPXw",
+      "token": "Put Token Here",
       "channels" : [
-        "1199955584603144233",
-        "1199955584603144233",
-        "1199955584603144233",
-        "1199955584603144233",
-        "1199955584603144233"
+        "channel id",
+        "channel id",
+        "channel id",
+        "channel id",
+        "channel id"
       ]
     }
   ],
-  "default_channel_id": "1199955584603144233",
-  "log_channel_id": "1199955584603144233",
-  "manager_id": "1144955610236997683",
-  "owo_id": "813807202883469345",
-  "pray_id": "1144955610236997683",
+  "default_channel_id": "channel id",
+  "log_channel_id": "channel id",
+  "manager_id": "channel id",
+  "owo_id": "owo bot id",
+  "pray_id": "user pray id",
   "emote_id": "XXXX",
   "settings": {
     "hunt": true,
@@ -34,5 +34,8 @@
     "gamble": 300,
     "random_message": 15,
     "emote": 15
+
+
+    # join https://discord.gg/4N2jG28Z for support
   }
 }
